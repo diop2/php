@@ -1,0 +1,9 @@
+Mangue:2500:125:
+Poivre:100:160:
+Carassole:20:250:
+Goyave:9:250:
+Ananas:8:500:
+Fraise:10:600:
+grenade:50:450:
+Pomme:250:150:
+Banane:100:125:
